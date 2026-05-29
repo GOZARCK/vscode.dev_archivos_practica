@@ -31,5 +31,8 @@ Este repositorio contiene prácticas de diferentes temas:
 git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
 cd TU_REPOSITORIO
 
+#Propiedades de entorno
+chmod +x machine.sh
+./machine.sh
 # Ejecutar un archivo específico
 python3 collatz.py
